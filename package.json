@@ -1,0 +1,49 @@
+{
+  "_args": [
+    [
+      "@ks/wsjson@0.1.21",
+      "/Users/huhaoks/Desktop/beifengognsidiannao/kuaishou-frontend-data-app"
+    ]
+  ],
+  "_from": "@ks/wsjson@0.1.21",
+  "_id": "@ks/wsjson@0.1.21",
+  "_inBundle": false,
+  "_integrity": "sha512-B3aaLm4AyZC83Vflcq/HsmXsMXRa9S9W8SjHi32GKgTWQxRIMDKeBE7Y1tFoFr/fVweCkYEgkCAMzgD2UWGsbQ==",
+  "_location": "/@ks/wsjson",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@ks/wsjson@0.1.21",
+    "name": "@ks/wsjson",
+    "escapedName": "@ks%2fwsjson",
+    "scope": "@ks",
+    "rawSpec": "0.1.21",
+    "saveSpec": null,
+    "fetchSpec": "0.1.21"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://npm.corp.kuaishou.com/@ks%2fwsjson/-/wsjson-0.1.21.tgz",
+  "_spec": "0.1.21",
+  "_where": "/Users/huhaoks/Desktop/beifengognsidiannao/kuaishou-frontend-data-app",
+  "author": {
+    "name": "huhao03"
+  },
+  "dependencies": {},
+  "description": "json messaging websocket wrapper",
+  "devDependencies": {
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "license": "ISC",
+  "main": "dist/ws-json.js",
+  "name": "@ks/wsjson",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "index.d.ts",
+  "version": "0.1.21"
+}
